@@ -1,0 +1,307 @@
+{
+    "products": [
+        {
+            "name": "string",
+            "img": "string",
+            "price": "number",
+            "description": "string",
+            "author_id": "number",
+            "id": "number"
+        },
+        {
+            "name": "Meet 1",
+            "img": "https://example.com/meet1.jpg",
+            "price": "10.99",
+            "description": "Delicious meet with special seasoning.",
+            "author_id": "123456",
+            "id": "987654"
+        },
+        {
+            "name": "Meet 2",
+            "img": "https://example.com/meet2.jpg",
+            "price": "15.99",
+            "description": "Tender meet from grass-fed cows.",
+            "author_id": "234567",
+            "id": "876543"
+        },
+        {
+            "name": "Meet 3",
+            "img": "https://example.com/meet3.jpg",
+            "price": "12.99",
+            "description": "Premium meet for special occasions.",
+            "author_id": "345678",
+            "id": "765432"
+        },
+        {
+            "name": "Meet 4",
+            "img": "https://example.com/meet4.jpg",
+            "price": "9.99",
+            "description": "Affordable meet for everyday cooking.",
+            "author_id": "456789",
+            "id": "654321"
+        },
+        {
+            "name": "Meet 5",
+            "img": "https://example.com/meet5.jpg",
+            "price": "14.99",
+            "description": "Juicy meet for grilling.",
+            "author_id": "567890",
+            "id": "543210"
+        },
+        {
+            "name": "Meet 6",
+            "img": "https://example.com/meet6.jpg",
+            "price": "11.99",
+            "description": "Tasty meet for stews and soups.",
+            "author_id": "678901",
+            "id": "432109"
+        },
+        {
+            "name": "Meet 7",
+            "img": "https://example.com/meet7.jpg",
+            "price": "13.99",
+            "description": "Lean meet for healthy meals.",
+            "author_id": "789012",
+            "id": "321098"
+        },
+        {
+            "name": "Meet 8",
+            "img": "https://example.com/meet8.jpg",
+            "price": "16.99",
+            "description": "Flavorful meet for roasting.",
+            "author_id": "890123",
+            "id": "210987"
+        },
+        {
+            "name": "Meet 9",
+            "img": "https://example.com/meet9.jpg",
+            "price": "10.99",
+            "description": "Succulent meet for BBQ.",
+            "author_id": "901234",
+            "id": "109876"
+        },
+        {
+            "name": "Meet 10",
+            "img": "https://example.com/meet10.jpg",
+            "price": "15.99",
+            "description": "Melt-in-your-mouth meet for slow cooking.",
+            "author_id": "012345",
+            "id": "098765"
+        },
+        {
+            "name": "Meet 11",
+            "img": "https://example.com/meet11.jpg",
+            "price": "12.99",
+            "description": "Rich meet for special recipes.",
+            "author_id": "123456",
+            "id": "987654"
+        },
+        {
+            "name": "Meet 12",
+            "img": "https://example.com/meet12.jpg",
+            "price": "9.99",
+            "description": "Affordable meet for family dinners.",
+            "author_id": "234567",
+            "id": "876543"
+        },
+        {
+            "name": "Meet 13",
+            "img": "https://example.com/meet13.jpg",
+            "price": "14.99",
+            "description": "Tender meet for grilling.",
+            "author_id": "345678",
+            "id": "765432"
+        },
+        {
+            "name": "Meet 14",
+            "img": "https://example.com/meet14.jpg",
+            "price": "11.99",
+            "description": "Flavorful meet for stir-fries.",
+            "author_id": "456789",
+            "id": "654321"
+        },
+        {
+            "name": "Meet 15",
+            "img": "https://example.com/meet15.jpg",
+            "price": "13.99",
+            "description": "Lean meet for healthy eating.",
+            "author_id": "567890",
+            "id": "543210"
+        },
+        {
+            "name": "Meet 16",
+            "img": "https://example.com/meet16.jpg",
+            "price": "16.99",
+            "description": "Premium meet for special occasions.",
+            "author_id": "678901",
+            "id": "432109"
+        },
+        {
+            "name": "Meet 17",
+            "img": "https://example.com/meet17.jpg",
+            "price": "10.99",
+            "description": "Juicy meet for BBQ parties.",
+            "author_id": "789012",
+            "id": "321098"
+        },
+        {
+            "name": "Meet 18",
+            "img": "https://example.com/meet18.jpg",
+            "price": "15.99",
+            "description": "Tasty meet for sandwiches.",
+            "author_id": "890123",
+            "id": "210987"
+        },
+        {
+            "name": "Meet 19",
+            "img": "https://example.com/meet19.jpg",
+            "price": "12.99",
+            "description": "Succulent meet for special recipes.",
+            "author_id": "901234",
+            "id": "109876"
+        },
+        {
+            "name": "Meet 20",
+            "img": "https://example.com/meet20.jpg",
+            "price": "9.99",
+            "description": "Affordable meet for everyday cooking.",
+            "author_id": "012345",
+            "id": "098765"
+        }
+    ],
+    "users": [
+        {
+            "name": "John",
+            "img": "http://example.com/john.jpg",
+            "surname": "Doe",
+            "balance": "1000",
+            "id": "12345"
+        },
+        {
+            "name": "Jane",
+            "img": "http://example.com/jane.jpg",
+            "surname": "Smith",
+            "balance": "500",
+            "id": "67890"
+        },
+        {
+            "name": "Michael",
+            "img": "http://example.com/michael.jpg",
+            "surname": "Johnson",
+            "balance": "1500",
+            "id": "54321"
+        },
+        {
+            "name": "Sarah",
+            "img": "http://example.com/sarah.jpg",
+            "surname": "Williams",
+            "balance": "2000",
+            "id": "98765"
+        },
+        {
+            "name": "Robert",
+            "img": "http://example.com/robert.jpg",
+            "surname": "Brown",
+            "balance": "800",
+            "id": "43210"
+        },
+        {
+            "name": "Emily",
+            "img": "http://example.com/emily.jpg",
+            "surname": "Davis",
+            "balance": "1200",
+            "id": "67890"
+        },
+        {
+            "name": "David",
+            "img": "http://example.com/david.jpg",
+            "surname": "Miller",
+            "balance": "3000",
+            "id": "54321"
+        },
+        {
+            "name": "Olivia",
+            "img": "http://example.com/olivia.jpg",
+            "surname": "Wilson",
+            "balance": "900",
+            "id": "98765"
+        },
+        {
+            "name": "Daniel",
+            "img": "http://example.com/daniel.jpg",
+            "surname": "Taylor",
+            "balance": "1800",
+            "id": "43210"
+        },
+        {
+            "name": "Sophia",
+            "img": "http://example.com/sophia.jpg",
+            "surname": "Anderson",
+            "balance": "2500",
+            "id": "67890"
+        },
+        {
+            "name": "Matthew",
+            "img": "http://example.com/matthew.jpg",
+            "surname": "Thomas",
+            "balance": "700",
+            "id": "54321"
+        },
+        {
+            "name": "Ava",
+            "img": "http://example.com/ava.jpg",
+            "surname": "Jackson",
+            "balance": "1100",
+            "id": "98765"
+        },
+        {
+            "name": "Christopher",
+            "img": "http://example.com/christopher.jpg",
+            "surname": "White",
+            "balance": "3500",
+            "id": "43210"
+        },
+        {
+            "name": "Isabella",
+            "img": "http://example.com/isabella.jpg",
+            "surname": "Harris",
+            "balance": "600",
+            "id": "67890"
+        },
+        {
+            "name": "Andrew",
+            "img": "http://example.com/andrew.jpg",
+            "surname": "Martin",
+            "balance": "1400",
+            "id": "54321"
+        },
+        {
+            "name": "Mia",
+            "img": "http://example.com/mia.jpg",
+            "surname": "Thompson",
+            "balance": "2300",
+            "id": "98765"
+        },
+        {
+            "name": "Joseph",
+            "img": "http://example.com/joseph.jpg",
+            "surname": "Clark",
+            "balance": "1000",
+            "id": "43210"
+        },
+        {
+            "name": "Charlotte",
+            "img": "http://example.com/charlotte.jpg",
+            "surname": "Lewis",
+            "balance": "2700",
+            "id": "67890"
+        },
+        {
+            "name": "William",
+            "img": "http://example.com/william.jpg",
+            "surname": "Lee",
+            "balance": "950",
+            "id": "54321"
+        }
+    ]
+}
