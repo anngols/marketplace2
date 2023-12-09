@@ -2,7 +2,7 @@
     "products": [
         {
             "name": "Meet 1",
-            "img": "https://raw.githubuserscontent.com/anngols/marketplace2/main/img/bf57c48c9720452e55_JAW14X.jpg",
+            "img": "https://raw.githubusercontent.com/anngols/marketplace2/main/img/bf57c48c9720452e55_JAW14X.jpg",
             "price": "10.99",
             "description": "Delicious meet with special seasoning.",
             "author_id": "1",
@@ -10,7 +10,7 @@
         },
         {
             "name": "Meet 2",
-            "img": "https://raw.githubuserscontent.com/anngols/marketplace2/main/img/good-quality-meat.jpg",
+            "img": "https://raw.githubusercontent.com/anngols/marketplace2/main/img/good-quality-meat.jpg",
             "price": "15.99",
             "description": "Tender meet from grass-fed cows.",
             "author_id": "2",
@@ -18,7 +18,7 @@
         },
         {
             "name": "Meet 3",
-            "img": "https://raw.githubuserscontent.com/anngols/marketplace2/main/img/meat-80049790.webp",
+            "img": "https://raw.githubusercontent.com/anngols/marketplace2/main/img/meat-80049790.webp",
             "price": "12.99",
             "description": "Premium meet for special occasions.",
             "author_id": "3",
@@ -26,7 +26,7 @@
         },
         {
             "name": "Meet 4",
-            "img": "https://raw.githubuserscontent.com/anngols/marketplace2/main/img/meat.jpg",
+            "img": "https://raw.githubusercontent.com/anngols/marketplace2/main/img/meat.jpg",
             "price": "9.99",
             "description": "Affordable meet for everyday cooking.",
             "author_id": "4",
@@ -34,7 +34,7 @@
         },
         {
             "name": "Meet 5",
-            "img": "https://raw.githubuserscontent.com/anngols/marketplace2/main/img/Panko-Breaded-Pork-Chops-FT-RECIPE0822-2000-98a8ee5b1a6c4491843d54afcd360932.jpg",
+            "img": "https://raw.githubusercontent.com/anngols/marketplace2/main/img/Panko-Breaded-Pork-Chops-FT-RECIPE0822-2000-98a8ee5b1a6c4491843d54afcd360932.jpg",
             "price": "14.99",
             "description": "Juicy meet for grilling.",
             "author_id": "5",
@@ -45,21 +45,21 @@
     "users": [
         {
             "name": "John",
-            "img": "https://raw.githubuserscontent.com/anngols/marketplace2/main/img/30-and-funny-cat-selfies-you-ll-wish-your-cat-took-u1.jpg",
+            "img": "https://raw.githubusercontent.com/anngols/marketplace2/main/img/30-and-funny-cat-selfies-you-ll-wish-your-cat-took-u1.jpg",
             "surname": "Doe",
             "balance": "1000",
             "id": "1"
         },
         {
             "name": "Jane",
-            "img": "https://raw.githubuserscontent.com/anngols/marketplace2/main/img/Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.webp",
+            "img": "https://raw.githubusercontent.com/anngols/marketplace2/main/img/Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.webp",
             "surname": "Smith",
             "balance": "500",
             "id": "2"
         },
         {
             "name": "Michael",
-            "img": "https://raw.githubuserscontent.com/anngols/marketplace2/main/img/ba927ff34cd961ce2c184d47e8ead9f6.jpg",
+            "img": "https://raw.githubusercontent.com/anngols/marketplace2/main/img/ba927ff34cd961ce2c184d47e8ead9f6.jpg",
             "surname": "Johnson",
             "balance": "1500",
             "id": "3"
