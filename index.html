@@ -6,13 +6,17 @@
     <title>Meets Shop</title>
     <link rel="stylesheet" href="style.css">
     <script src="script.js" defer></script>
+    <script src="cart.js" defer></script>
     <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.css' integrity='sha512-tx5+1LWHez1QiaXlAyDwzdBTfDjX07GMapQoFTS74wkcPMsI3So0KYmFe6EHZjI8+eSG0ljBlAQc3PQ5BTaZtQ==' crossorigin='anonymous'/>
 </head>
 <body>
     <header>
         <h1>MeetsStore</h1>
-        <div id="cart">
+        <div class="cart">
             <i class="fa-solid fa-cart-shopping" id="cart"></i>
+            <div id="cart-products" class="hide">
+            Cart is empty
+        </div>
         </div>
     </header>
     <main>
